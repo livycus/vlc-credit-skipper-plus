@@ -29,10 +29,6 @@ your VLC extensions directory:
 7. Press the <kbd>Start Playlist</kbd> button to play the playlist with the skip
    settings applied.
 
-## Contributing
-
-Bug reports and pull requests are welcome on [GitHub][github].
-
 ## License
 
 This project is available under the terms of the ISC license. See the
