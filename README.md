@@ -1,5 +1,5 @@
 <h1 align="center">vlc-credit-skipper-plus</h1>
-<p align="center">Improved version of vlc-credit-skipper originally developed by michaelbull which allows for more specific designation of intros and credits..</p>
+<p align="center">Improved version of vlc-credit-skipper originally developed by michaelbull which allows for more specific designation of intros and credits.</p>
 <p align="center"><a href="#readme"><img src="https://github.com/livycus/vlc-credit-skipper-plus/blob/main/Preview.png" alt="Preview" /></a></p>
 
 ## Installation
