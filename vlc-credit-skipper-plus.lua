@@ -4,8 +4,8 @@ function descriptor()
     return {
         title = "Credit Skipper",
         version = "1.1.0",
-        author = "Michael Bull + Modded",
-        url = "https://github.com/michaelbull/vlc-credit-skipper",
+        author = "Michael Bull + livycus",
+        url = "https://github.com/michaelbull/vlc-credit-skipper + https://github.com/livycus/vlc-credit-skipper-plus",
         shortdesc = "Skip Intro/Outro Segments",
         description = "Skip specific intro and credit segments in VLC playlists.",
         capabilities = {}
